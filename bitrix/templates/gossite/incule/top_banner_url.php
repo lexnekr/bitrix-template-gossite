@@ -1,0 +1,1 @@
+/bitrix/templates/gossite/images/top_banner_1.png

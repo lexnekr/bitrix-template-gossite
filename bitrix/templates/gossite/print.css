@@ -1,0 +1,36 @@
+@media print { /* Стиль для печати */
+* {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+BODY {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FONT-FAMILY: Tahoma, sans-serif; HEIGHT: 100%; PADDING-TOP: 0px
+}
+#all {
+	WIDTH: 100%
+}
+#main {
+	WIDTH: 100%
+}
+#head {
+	DISPLAY: none
+}
+#menu {
+	DISPLAY: none
+}
+#info {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#foot {
+	DISPLAY: none
+}
+.pp {
+	MARGIN: 0px 20px 15px 0px; WIDTH: 160px; ZOOM: 1; DISPLAY: inline-block; VERTICAL-ALIGN: top
+}
+
+}

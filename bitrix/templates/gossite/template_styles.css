@@ -1,0 +1,325 @@
+@media screen {
+
+* {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+BODY {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FONT-FAMILY: Tahoma, sans-serif; HEIGHT: 100%; PADDING-TOP: 0px
+}
+#all {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; MIN-HEIGHT: 750px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+#main {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px auto; MIN-HEIGHT: 100px; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; BACKGROUND: url(images/tf.png) repeat-y center 50%; PADDING-TOP: 0px
+}
+#head {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; HEIGHT: 326px; PADDING-TOP: 0px
+}
+#vla {
+	BORDER-BOTTOM: #cecece 1px dashed; POSITION: absolute; PADDING-BOTTOM: 7px; MARGIN: 10px 0px 0px 50px; PADDING-LEFT: 0px; WIDTH: 404px; PADDING-RIGHT: 0px; HEIGHT: 60px; COLOR: #ffffff; FONT-SIZE: 10pt; PADDING-TOP: 0px
+}
+#vla .tb {
+	MARGIN: 0px 16px 0px 0px
+}
+#vla .tb A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#vla .tb IMG {
+	FILTER: alpha(opacity=40); opacity: 0.4; -moz-opacity: 0.4
+}
+#vla .tb IMG:hover {
+	FILTER: alpha(opacity=100); opacity: 1; -moz-opacity: 1
+}
+#head #bryksin {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 155px 0px 0px 53px; PADDING-LEFT: 0px; WIDTH: 450px; PADDING-RIGHT: 0px; HEIGHT: 50px; COLOR: #ffffff; FONT-SIZE: 10pt; PADDING-TOP: 0px
+}
+#head #bryksin A {
+	COLOR: #ffffff
+}
+#head #say {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 215px 0px 0px 53px; PADDING-LEFT: 0px; WIDTH: 350px; PADDING-RIGHT: 0px; HEIGHT: 82px; COLOR: #ffffff; FONT-SIZE: 10pt; PADDING-TOP: 0px
+}
+#head #say H2 {
+	MARGIN: 0px
+}
+#head #say A {
+	COLOR: #ffffff
+}
+#info {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 980px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#info #menu {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 934px; PADDING-RIGHT: 0px; BACKGROUND: #1e84b8; HEIGHT: 35px; PADDING-TOP: 10px
+}
+#info #menu A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 10px; COLOR: #ffffff; FONT-SIZE: 14pt; FONT-WEIGHT: lighter; PADDING-TOP: 0px
+}
+#info #text {
+	PADDING-BOTTOM: 0px; MIN-HEIGHT: 350px; PADDING-LEFT: 50px; WIDTH: 890px; PADDING-RIGHT: 40px; FONT-SIZE: 11pt; PADDING-TOP: 15px
+}
+#foot {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 50px; WIDTH: 930px; PADDING-RIGHT: 0px; BACKGROUND: url(images/foot.gif) repeat-x; HEIGHT: 110px; COLOR: #333333; FONT-SIZE: 10pt; PADDING-TOP: 10px
+}
+#foot P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#foot A {
+	COLOR: #666666; FONT-SIZE: 10pt
+}
+.nav {
+	MARGIN: 0px 0px 0px 46px; WIDTH: 760px
+}
+.search {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 350px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.search .po {
+	
+}
+.search .po INPUT {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 15px; PADDING-LEFT: 0px; WIDTH: 250px; PADDING-RIGHT: 0px; BACKGROUND: #a5d6f0; HEIGHT: 21px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 0px
+}
+.search .bu {
+	
+}
+.search .bu INPUT {
+	BORDER-BOTTOM: #11577c 1px solid; BORDER-LEFT: #11577c 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 60px; PADDING-RIGHT: 0px; BACKGROUND: #11577c; HEIGHT: 24px; COLOR: #ffffff; BORDER-TOP: #11577c 1px solid; BORDER-RIGHT: #11577c 1px solid; PADDING-TOP: 0px
+}
+.about {
+	MARGIN: 0px 30px 0px 0px; WIDTH: 280px
+}
+.priem {
+	WIDTH: 566px
+}
+.news {
+	PADDING-BOTTOM: 5px; MARGIN: 10px 0px; MIN-HEIGHT: 300px; PADDING-LEFT: 5px; WIDTH: 873px; PADDING-RIGHT: 5px; BACKGROUND: url(images/px.png); PADDING-TOP: 5px
+}
+.video {
+	MARGIN: 10px 15px 0px 0px; WIDTH: 425px
+}
+.videobl {
+	MARGIN: 10px 5px 0px 0px; WIDTH: 423px
+}
+.photo {
+	MARGIN: 10px 0px 0px 15px; WIDTH: 423px
+}
+.albom {
+	BORDER-BOTTOM: #cecece 1px solid; PADDING-BOTTOM: 5px; MARGIN: 0px 18px 15px 0px; PADDING-LEFT: 0px; WIDTH: 410px; PADDING-RIGHT: 0px; FONT-SIZE: 10pt; PADDING-TOP: 0px
+}
+.albom A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 0px 15px 0px 0px; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.personal {
+	MARGIN: 0px 20px 0px 0px; WIDTH: 580px
+}
+.other {
+	WIDTH: 250px
+}
+.other A {
+	COLOR: #000000
+}
+.press {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 580px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.pub {
+	PADDING-BOTTOM: 5px; MARGIN: 5px 10px 10px 0px; PADDING-LEFT: 5px; WIDTH: 270px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.pub .kon {
+	BORDER-BOTTOM: #007323 1px dashed; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 10px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; DISPLAY: block; PADDING-TOP: 2px
+}
+.pub .kon A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 10pt; PADDING-TOP: 0px
+}
+.pub P {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 1.4; MARGIN: 5px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #333333; PADDING-TOP: 0px
+}
+.defn2 {
+	MARGIN: 5px 40px 10px 0px; WIDTH: 265px
+}
+.defn1 {
+	MARGIN: 5px 0px 10px; WIDTH: 265px
+}
+.pp {
+	MARGIN: 0px 20px 15px 0px; WIDTH: 160px
+}
+.pd {
+	BORDER-BOTTOM: #cecece 1px solid; MARGIN: 0px 0px 10px
+}
+.tni {
+	MARGIN: 0px 0px 5px; WIDTH: 265px; HEIGHT: 120px
+}
+.tni IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 265px; HEIGHT: 120px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.tvid {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; WIDTH: 423px; HEIGHT: 317px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid
+}
+UL {
+	LINE-HEIGHT: 1.3; FONT-SIZE: 11pt
+}
+OL {
+	LINE-HEIGHT: 1.3; FONT-SIZE: 11pt
+}
+LI {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#pagesnav {
+	BORDER-BOTTOM: #999999 1px solid; PADDING-BOTTOM: 7px; MARGIN: 0px 0px 5px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; BACKGROUND: #fbfeff; FONT-SIZE: 9pt; PADDING-TOP: 7px
+}
+.pd A {
+	COLOR: #11577c; FONT-SIZE: 12pt
+}
+.pd P {
+	FONT-SIZE: 10pt
+}
+#page {
+	MARGIN: 20px 0px; FONT-SIZE: 11pt
+}
+#page A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #d8d8d8; COLOR: #000000; PADDING-TOP: 5px
+}
+#page A:hover {
+	BACKGROUND: #656565; COLOR: #ffffff
+}
+#page SPAN {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #656565; COLOR: #ffffff; PADDING-TOP: 5px
+}
+#ft P {
+	FONT-SIZE: 10pt
+}
+#region {
+	PADDING-BOTTOM: 8px; MARGIN: 0px 0px 10px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: #eeeeee; PADDING-TOP: 8px
+}
+#region A {
+	COLOR: #000000
+}
+#region .defn {
+	MARGIN: 1px 25px 10px 0px; WIDTH: 265px
+}
+#region P {
+	FONT-SIZE: 10pt
+}
+#region A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#botban {
+	PADDING-BOTTOM: 10px; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#botban .ban {
+	MARGIN: 10px 25px 0px 0px; WIDTH: 123px; HEIGHT: 80px
+}
+#botban .ban A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+A {
+	COLOR: #006699
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+H1 {
+	PADDING-BOTTOM: 4px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 18pt; FONT-WEIGHT: lighter; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 4px; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 16pt; FONT-WEIGHT: lighter; PADDING-TOP: 0px
+}
+H2 A {
+	BORDER-BOTTOM: #c4c4c4 1px solid; COLOR: #000000; TEXT-DECORATION: none
+}
+H2 A:hover {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+H3 A {
+	BORDER-BOTTOM: #c4c4c4 1px solid; COLOR: #000000; TEXT-DECORATION: none
+}
+H3 A:hover {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+H3 SPAN {
+	FONT-SIZE: 10pt
+}
+H3 {
+	BORDER-BOTTOM: #666666 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 14pt; FONT-WEIGHT: lighter; PADDING-TOP: 0px
+}
+.block {
+	ZOOM: 1; DISPLAY: inline-block; VERTICAL-ALIGN: top
+}
+P {
+	LINE-HEIGHT: 1.5
+}
+.line {
+	PADDING-BOTTOM: 0px; MARGIN: 15px 0px 5px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BORDER-TOP: #d0d0d0 1px solid; PADDING-TOP: 0px
+}
+.data {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #9f172b; COLOR: #ffffff; FONT-SIZE: 9pt; PADDING-TOP: 2px
+}
+.data1 {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #336699; COLOR: #ffffff; FONT-SIZE: 9pt; PADDING-TOP: 2px
+}
+.data2 {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #646464; COLOR: #ffffff; FONT-SIZE: 9pt; PADDING-TOP: 2px
+}
+.bigimg {
+	PADDING-BOTTOM: 15px; MARGIN: 0px; PADDING-LEFT: 80px; WIDTH: 805px; PADDING-RIGHT: 0px; BACKGROUND: #e9f3fe; PADDING-TOP: 25px
+}
+.bigimg SPAN {
+	MARGIN: 0px; WIDTH: 730px; DISPLAY: block; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+A.gPic IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+A.gPic {
+	ZOOM: 1; DISPLAY: inline-block; VERTICAL-ALIGN: top
+}
+A.gPic:hover {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+TABLE.form {
+	MARGIN: 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-SIZE: 11pt
+}
+TABLE.form TR {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; VERTICAL-ALIGN: top; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 10px
+}
+TABLE.form TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; VERTICAL-ALIGN: top; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 10px
+}
+TABLE.form TD.name {
+	TEXT-ALIGN: right; WIDTH: 250px
+}
+TABLE.form TD.name SPAN {
+	FONT-STYLE: normal; DISPLAY: block; COLOR: #666666; FONT-SIZE: 9pt
+}
+TABLE.form TD UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE.form TD LI {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE.form TR:hover TD {
+	BACKGROUND: #f1f2fd
+}
+TABLE.form TD {
+	BORDER-BOTTOM: #cecece 1px solid
+}
+FORM {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+INPUT {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; WIDTH: auto; PADDING-RIGHT: 3px; FONT-SIZE: 11pt; VERTICAL-ALIGN: top; OVERFLOW: visible; PADDING-TOP: 3px
+}
+TEXTAREA {
+	FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 10pt; resize: vertical
+}
+SELECT {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: auto; PADDING-RIGHT: 2px; FONT-SIZE: 11pt; OVERFLOW: visible; PADDING-TOP: 2px
+}
+LABEL {
+	CURSOR: pointer
+}
+
+}
