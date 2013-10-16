@@ -1,4 +1,4 @@
-@media print { /* Стиль для печати */
+﻿@media print { /* РЎС‚РёР»СЊ РґР»СЏ РїРµС‡Р°С‚Рё */
 * {
 	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
 }

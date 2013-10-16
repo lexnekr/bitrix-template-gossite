@@ -1,4 +1,4 @@
-		<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+﻿		<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?$LINE_ELEMENT_COUNT=2;?>
 <div class="news-index">
 <?

@@ -1,4 +1,4 @@
-<?
+﻿<?
 $MESS ['FORM_REQUIRED_FIELDS'] = "Required fields";
 $MESS ['FORM_APPLY'] = "Apply";
 $MESS ['FORM_ADD'] = "Add";

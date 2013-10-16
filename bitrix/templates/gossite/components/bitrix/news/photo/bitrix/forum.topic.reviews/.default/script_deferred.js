@@ -1,4 +1,4 @@
-function replyActionComment(link, action)
+﻿function replyActionComment(link, action)
 {
 	if (! BX.util.in_array(action, ['DEL', 'MODERATE'])) return false;
 	if (action == 'DEL' && (!confirm(oText['cdm']))) return false;

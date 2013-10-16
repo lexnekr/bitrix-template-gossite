@@ -1,4 +1,4 @@
-<?
+ï»¿<?
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 
 $arTemplateParameters = array(
@@ -25,7 +25,7 @@ $arTemplateParameters = array(
 	"LINE_NAME" => Array(
 		"NAME" => GetMessage("T_LINE_NAME"),
 		"TYPE" => "TEXT",
-		"DEFAULT" => "Íàçâàíèå ëåíòû",
+		"DEFAULT" => "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð»ÐµÐ½Ñ‚Ñ‹",
 	),
 	"LINE_NAME_URL" => Array(
 		"NAME" => GetMessage("T_LINE_NAME_URL"),

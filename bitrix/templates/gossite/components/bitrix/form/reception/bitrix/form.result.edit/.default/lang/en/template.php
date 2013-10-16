@@ -1,4 +1,4 @@
-<?
+﻿<?
 $MESS ['FORM_CHANGE_TO'] = "change to";
 $MESS ['FORM_CURRENT_STATUS'] = "Current status: ";
 $MESS ['FORM_ENLARGE'] = "Enlarge";

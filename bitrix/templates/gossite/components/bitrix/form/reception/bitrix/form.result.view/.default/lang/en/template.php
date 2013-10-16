@@ -1,4 +1,4 @@
-<?
+﻿<?
 $MESS ['FORM_CURRENT_STATUS'] = "Current status: ";
 $MESS ['FORM_MODULE_NOT_INSTALLED'] = "Web-form module is not installed.";
 $MESS ['FORM_RECORD_NOT_FOUND'] = "Record not found";

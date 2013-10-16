@@ -1,4 +1,4 @@
-<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+﻿<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <div class="news-index">
 <?foreach($arResult["IBLOCKS"] as $arIBlock):?>
 	<?if(count($arIBlock["ITEMS"])>0):?>

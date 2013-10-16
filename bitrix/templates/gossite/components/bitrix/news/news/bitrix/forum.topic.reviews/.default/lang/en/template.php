@@ -1,4 +1,4 @@
-<?
+﻿<?
 $MESS["OPINIONS_NAME"] = "Your name";
 $MESS["OPINIONS_EMAIL"] = "Your E-mail";
 $MESS["OPINIONS_SEND"] = "Send";

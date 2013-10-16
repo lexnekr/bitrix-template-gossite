@@ -1,4 +1,4 @@
-<?
+﻿<?
 $MESS["SEARCH_ALL"] = "(all)";
 $MESS["SEARCH_GO"] = "Go";
 $MESS["SEARCH_ERROR"] = "Error in search phrase:";

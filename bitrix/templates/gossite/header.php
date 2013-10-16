@@ -1,4 +1,4 @@
-<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+п»ї<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?
 IncludeTemplateLangFile(__FILE__);
 ?> 
@@ -15,7 +15,7 @@ IncludeTemplateLangFile(__FILE__);
 <link rel="shortcut icon" type="image/x-icon" href="<?=SITE_TEMPLATE_PATH?>/favicon.ico" />
 
 <?
-// для css-файлов
+// РґР»СЏ css-С„Р°Р№Р»РѕРІ
 $APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/print.css");
 ?>
 
@@ -104,9 +104,9 @@ false
 
 <?if ($GLOBALS["APPLICATION"]->GetCurPage() != "/"):?>
 <?$APPLICATION->IncludeComponent("bitrix:breadcrumb", "breadcrumb", Array(
-	"START_FROM" => "0",	// Номер пункта, начиная с которого будет построена навигационная цепочка
-	"PATH" => "",	// Путь, для которого будет построена навигационная цепочка (по умолчанию, текущий путь)
-	"SITE_ID" => "s1",	// Cайт (устанавливается в случае многосайтовой версии, когда DOCUMENT_ROOT у сайтов разный)
+	"START_FROM" => "0",	// РќРѕРјРµСЂ РїСѓРЅРєС‚Р°, РЅР°С‡РёРЅР°СЏ СЃ РєРѕС‚РѕСЂРѕРіРѕ Р±СѓРґРµС‚ РїРѕСЃС‚СЂРѕРµРЅР° РЅР°РІРёРіР°С†РёРѕРЅРЅР°СЏ С†РµРїРѕС‡РєР°
+	"PATH" => "",	// РџСѓС‚СЊ, РґР»СЏ РєРѕС‚РѕСЂРѕРіРѕ Р±СѓРґРµС‚ РїРѕСЃС‚СЂРѕРµРЅР° РЅР°РІРёРіР°С†РёРѕРЅРЅР°СЏ С†РµРїРѕС‡РєР° (РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ, С‚РµРєСѓС‰РёР№ РїСѓС‚СЊ)
+	"SITE_ID" => "s1",	// CР°Р№С‚ (СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚СЃСЏ РІ СЃР»СѓС‡Р°Рµ РјРЅРѕРіРѕСЃР°Р№С‚РѕРІРѕР№ РІРµСЂСЃРёРё, РєРѕРіРґР° DOCUMENT_ROOT Сѓ СЃР°Р№С‚РѕРІ СЂР°Р·РЅС‹Р№)
 	),
 	false
 );?>

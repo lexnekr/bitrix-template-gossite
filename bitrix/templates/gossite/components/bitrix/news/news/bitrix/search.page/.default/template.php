@@ -1,4 +1,4 @@
-<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();?>
+﻿<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();?>
 <div class="search-page">
 <form action="" method="get">
 	<input type="text" name="q" value="<?=$arResult["REQUEST"]["QUERY"]?>" size="40" />

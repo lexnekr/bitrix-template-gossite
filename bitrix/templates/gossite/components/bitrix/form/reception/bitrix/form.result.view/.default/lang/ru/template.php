@@ -1,22 +1,22 @@
-<?
-$MESS ['FORM_CURRENT_STATUS'] = "Òåêóùèé ñòàòóñ: ";
-$MESS ['FORM_MODULE_NOT_INSTALLED'] = "Ìîäóëü âåá-ôîðì íå óñòàíîâëåí.";
-$MESS ['FORM_RECORD_NOT_FOUND'] = "Çàïèñü íå íàéäåíà";
-$MESS ['FORM_RESULT_ACCESS_DENIED'] = "Íå õâàòàåò ïðàâ äëÿ äîñòóïà ê ðåçóëüòàòó.";
-$MESS ['FORM_ACCESS_DENIED'] = "Íå õâàòàåò ïðàâ äîñòóïà ê âåá-ôîðìå.";
-$MESS ['FORM_EDIT'] = "Èçìåíèòü";
-$MESS ['FORM_PRINT'] = "Ïå÷àòü";
-$MESS ['FORM_FORM_NAME'] = "Ôîðìà:";
-$MESS ['FORM_DATE_CREATE'] = "Ñîçäàí:";
-$MESS ['FORM_TIMESTAMP'] = "Èçìåíåí:";
-$MESS ['FORM_USER'] = "Ïîëüçîâàòåëü:";
-$MESS ['FORM_EDIT_USER'] = "Ïðîôàéë ïîëüçîâàòåëÿ";
-$MESS ['FORM_NOT_AUTH'] = "(íå àâòîðèçîâàí)";
-$MESS ['FORM_NOT_REGISTERED'] = "(íå çàðåãèñòðèðîâàí)";
-$MESS ['FORM_GUEST'] = "Ïîñåòèòåëü:";
-$MESS ['FORM_GUEST_ALT'] = "Ïðîôàéë ïîñåòèòåëÿ";
-$MESS ['FORM_SESSION'] = "Ñåññèÿ:";
-$MESS ['FORM_VIEW_FILE'] = "Ïðîñìîòð ôàéëà";
-$MESS ['FORM_DOWNLOAD_FILE'] = "Ñêà÷àòü ôàéë #FILE_NAME#";
-$MESS ['FORM_DOWNLOAD'] = "Ñêà÷àòü";
+ï»¿<?
+$MESS ['FORM_CURRENT_STATUS'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ: ";
+$MESS ['FORM_MODULE_NOT_INSTALLED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['FORM_RECORD_NOT_FOUND'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS ['FORM_RESULT_ACCESS_DENIED'] = "ÐÐµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñƒ.";
+$MESS ['FORM_ACCESS_DENIED'] = "ÐÐµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ðµ.";
+$MESS ['FORM_EDIT'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['FORM_PRINT'] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ";
+$MESS ['FORM_FORM_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð°:";
+$MESS ['FORM_DATE_CREATE'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½:";
+$MESS ['FORM_TIMESTAMP'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½:";
+$MESS ['FORM_USER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ:";
+$MESS ['FORM_EDIT_USER'] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð» Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_NOT_AUTH'] = "(Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½)";
+$MESS ['FORM_NOT_REGISTERED'] = "(Ð½Ðµ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½)";
+$MESS ['FORM_GUEST'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ:";
+$MESS ['FORM_GUEST_ALT'] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð» Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_SESSION'] = "Ð¡ÐµÑÑÐ¸Ñ:";
+$MESS ['FORM_VIEW_FILE'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['FORM_DOWNLOAD_FILE'] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» #FILE_NAME#";
+$MESS ['FORM_DOWNLOAD'] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
 ?>

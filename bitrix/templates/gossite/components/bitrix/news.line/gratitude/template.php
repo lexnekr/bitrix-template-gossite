@@ -1,8 +1,8 @@
-<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+ï»¿<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 
 
 <?
-// äëÿ js-ôàéëîâ
+// Ð´Ð»Ñ js-Ñ„Ð°Ð¹Ð»Ð¾Ð²
 $APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH."/components/bitrix/news/photo/bitrix/news.detail/.default/daGallery-min.js");
 $APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH."/components/bitrix/news/photo/bitrix/news.detail/.default/jquery.js");
 ?>
