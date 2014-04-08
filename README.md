@@ -4,6 +4,8 @@ bitrixtemplate_gossite
 Шаблон сайт государственного учреждения или чиновника
 
 
+![Alt text](https://raw2.github.com/lexnekr/bitrix-template-gossite/master/bitrix/gossite/stylish/screen.gif)
+
 
 В данном репозитории представлены 2 ветки:
 
